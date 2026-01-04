@@ -1,4 +1,3 @@
-[![MasterHead](https://www.mobiers.com/blog/wp-content/uploads/2017/04/Android-Mobile-Application-Development-letsnurture-1.png)](https://github.com/mdrakibulislam-official)
 
 <h1 align="center">Hi 👋, I'm Md. Rakibul Islam</h1>
 <h3 align="center">I like to welcome challenges, self-motivated. I am also quick learner & dedicated to getting the job done right & leadership, good communication skills, sincerity & sensitivity in communication.</h3>
